@@ -4,7 +4,7 @@
 ## The online home of the Sphire Brothers
 
 
-![Sphire Brothers](SphireBros.png)
+ ![Rich and Ben Sphire](https://drive.google.com/file/d/1R-UHqwcFTcoGtD-taDzIQDUnnJWgKzKq/view?usp=sharing)
 
 
 ## Yesterday
