@@ -4,7 +4,7 @@
 ## The online home of the Sphire Brothers
 
 
-![Sphire Brothers](SphireBros.jpg)
+![Sphire Brothers](SphireBros.png)
 
 
 ## Yesterday
