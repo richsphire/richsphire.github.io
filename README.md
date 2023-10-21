@@ -119,7 +119,8 @@ As a crew, we managed to put on some shows and get booked on quite a few others.
 
 ### Footage
 
-[Opening for Black Sheep in Modesto](https://youtu.be/szT2kjjhndU?si=Bx99ajT9ia22XxQD)
+[![Opening for Blackalicious in Modesto 2005]([https://scontent.fsac1-2.fna.fbcdn.net/v/t1.18169-9/1913528_343983330159_1885960_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=4dc865&_nc_ohc=th-TjJMFQ8oAX8MJGDj&_nc_ht=scontent.fsac1-2.fna&oh=00_AfDtLITS1zVMGZ6yq16NW73OniRuB6NDYJgwVwomqrvUFA&oe=655BBA5B](https://scontent.fsac1-1.fna.fbcdn.net/v/t1.18169-9/1913528_343983315159_1061453_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=4dc865&_nc_ohc=PdSTEZOUDssAX-l6gwO&_nc_ht=scontent.fsac1-1.fna&oh=00_AfB7TNnhgUHgnNJM5o6m_tHIVgmAdFN2weRGWizHzIeWIw&oe=655BC528))]https://youtu.be/szT2kjjhndU?si=vExAZlHle7-4PG0O)
+ADLM opening for Blackalicious at the Fat Cat in Modesto
 
 
 ### Videos
