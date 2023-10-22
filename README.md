@@ -9,7 +9,7 @@
 
 ## Yesterday
 
-Right before Y2K, Sphire Bros. began with a dusty old [Amiga 1200](https://en.wikipedia.org/wiki/Amiga_1200), bought for us by our amazing Uncle Glenn. Soon we discovered this computer could create original audio, and with some fine-tuning, it could be tweaked into some pretty decent sounds to make music with. From there we continued our journey of exploring electronic devices as music-creation vessels as well as learning to develop computer systems and websites as our day jobs. We have always used this website as a testing playground for our music and an exercise in maintaining a website as well as tinkering with internet technology. In 2000 through 2010 we partnered with amazingly talented friends to create music, put on shows, and released a couple of albums that commemorate the work we did together. The crew was ADLM (AfterDinnerLiquidMints) and our various cohorts, TightRope Walkers, Cob@lt, Nik Fuq, Crumbl, and far too many more to name.
+As children, us two brothers took inspiration from our father, a lifelong musician and music/technology lover, and found every opportunity we could to create and record audio. Right before Y2K, Sphire Bros. began with a dusty old [Amiga 1200](https://en.wikipedia.org/wiki/Amiga_1200), bought for us by our amazing Uncle Glenn. Soon we discovered this computer could create original audio, and with some fine-tuning, it could be tweaked into some pretty decent sounds to make music with. From there we continued our journey of exploring electronic devices as music-creation vessels as well as learning to develop computer systems and websites as our day jobs. We have always used this website as a testing playground for our music and an exercise in maintaining a website as well as tinkering with internet technology. In 2000 through 2010 we partnered with amazingly talented friends to create music, put on shows, and released a couple of albums that commemorate the work we did together. The crew was ADLM (AfterDinnerLiquidMints) and our various cohorts, TightRope Walkers, Cob@lt, Nik Fuq, Crumbl, and far too many more to name.
 
 
 ### Check out what we did
@@ -174,6 +174,7 @@ We would like to send out much love and respect to all of those who have worked 
 * Marianne Pyle
 * Nik Fuq
 * Perksun
+* Richard K. Friedland
 * Remux
 * Ruben Andazola
 * Swarm Shogun
