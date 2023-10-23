@@ -169,6 +169,7 @@ We would like to send out much love and respect to all of those who have worked 
 * Efrain Carmona
 * Ex-I, DD Grunge, Joe Cutter, and Thunderhut
 * Fredo Algebra
+* Glenn Friedland
 * Jason and Donald Wilson
 * Jube Hwang
 * Marianne Pyle
