@@ -172,6 +172,7 @@ We would like to send out much love and respect to all of those who have worked 
 * Fredo Algebra
 * Glenn Friedland
 * Jason and Donald Wilson
+* John Anderson
 * Jube Hwang
 * Marianne Pyle
 * Nik Fuq
