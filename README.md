@@ -162,6 +162,7 @@ We would like to send out much love and respect to all of those who have worked 
 
 
 * Brandon Lozano
+* Brian and Jeff Dilley
 * Chris Booth
 * Dave Diaz "Supa 13"
 * Dee-non Jones
@@ -174,17 +175,25 @@ We would like to send out much love and respect to all of those who have worked 
 * Jube Hwang
 * Marianne Pyle
 * Nik Fuq
+* Our children, Ceciley, Nadia, Benny, and Richie Jr.
 * Perksun
-* Richard K. Friedland
 * Remux
+* Richard K. Friedland
 * Ruben Andazola
 * Swarm Shogun
 
+[Auto-generated ADLM channel on YouTube](https://www.youtube.com/channel/UC7_ziLg3Vw4zjst09sEXGVQ)
+
+[Future Ben on Apple Music](https://music.apple.com/us/artist/future-ben/1600778673)
+
 [RichSphire on SoundCloud](https://soundcloud.com/richsphire)
 
-[Auto-generated ADLM channel on YouTube](https://www.youtube.com/channel/UC7_ziLg3Vw4zjst09sEXGVQ)
+[Rich Friedland on LinkedIn](https://www.linkedin.com/in/rfriedland/)
+
+[BugBen](https://buggen.com)
 
 
 ---
 
-Questions, additions, removals, corrections? Contact info@danked.com
+Questions, additions, removals, corrections? Contact [info\@danked.com](mailto:info@danked.com?subject=Feedback)
+
