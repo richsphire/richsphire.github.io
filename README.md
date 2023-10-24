@@ -196,5 +196,5 @@ We would like to send out much love and respect to all of those who have worked 
 
 ---
 
-Questions, additions, removals, corrections? Contact [info\@danked.com](mailto:info@danked.com?subject=Feedback)
+Questions, additions, removals, corrections? Contact [info@danked.com](mailto:info@danked.com?subject=Feedback)
 
