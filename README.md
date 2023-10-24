@@ -149,7 +149,7 @@ As a hobby, we still maintain danked.com, and “The Lab” still exists, it is 
 
 ## Tomorrow
 
-We continue to create sounds and may someday bring those to the stage and other platforms. 
+We continue to create sounds and may someday bring those to the stage and other platforms. Check in from time to time to see what we are up to.
 
 
 ### Love and respect
