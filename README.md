@@ -4,7 +4,7 @@
 ## The online home of the Sphire Brothers
 
 
- ![Rich and Ben Sphire (Friedland)](https://imgur.com/a/0PYaWhz)
+![Rich and Ben Sphire (Friedland)](https://imgur.com/a/0PYaWhz)
 
 
 ## Yesterday
